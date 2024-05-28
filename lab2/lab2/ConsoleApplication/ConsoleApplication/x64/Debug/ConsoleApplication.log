@@ -1,0 +1,6 @@
+﻿  ConsoleApplication.cpp
+D:\1study\project\lab2\ConsoleApplication\ConsoleApplication\ConsoleApplication.cpp(25,45): warning C4474: "printf" : для строки формата передано слишком много аргументов
+  D:\1study\project\lab2\ConsoleApplication\ConsoleApplication\ConsoleApplication.cpp(25,45):
+  заполнители и их параметры ожидают переменное число аргументов в количестве 1, но было предоставлено 2
+  
+  ConsoleApplication.vcxproj -> D:\1study\project\lab2\ConsoleApplication\x64\Debug\ConsoleApplication.exe

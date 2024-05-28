@@ -1,0 +1,126 @@
+﻿  Building 'passThrough' with toolset 'WindowsKernelModeDriver10.0' and the 'Universal' target platform.
+  Stamping x64\Debug\passThrough.inf
+  Stamping [Version] section with DriverVer=05/09/2024,23.13.2.416
+D:\1study\project\lab2\lab2-2\passThrough.inf(8-8): warning 1324: [Version] section should specify PnpLockdown=1 to prevent external apps from modifying installed driver files.
+D:\1study\project\lab2\lab2-2\passThrough.inf(74-74): warning 1205: Section [MiniFilter.DriverFiles] referenced from DelFiles and CopyFiles directive.
+  aes.c
+D:\Visual Studio\visual studio\VC\Tools\MSVC\14.38.33130\include\vcruntime.h(61,26): warning C4083: требуется ")"; обнаружен идентификатор "_VCRUNTIME_DISABLED_WARNINGS"
+  (компиляция исходного файла "aes.c")
+  
+D:\Visual Studio\visual studio\VC\Tools\MSVC\14.38.33130\include\vcruntime.h(111,1): warning C4005: _CRT_STRINGIZE: изменение макроопределения
+  (компиляция исходного файла "aes.c")
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\km\crt\crtdefs.h(85,1):
+  см. предыдущее определение "_CRT_STRINGIZE"
+  
+D:\Visual Studio\visual studio\VC\Tools\MSVC\14.38.33130\include\vcruntime.h(114,1): warning C4005: _CRT_WIDE: изменение макроопределения
+  (компиляция исходного файла "aes.c")
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\km\crt\crtdefs.h(88,1):
+  см. предыдущее определение "_CRT_WIDE"
+  
+D:\Visual Studio\visual studio\VC\Tools\MSVC\14.38.33130\include\vcruntime.h(155,1): warning C4005: __CRTDECL: изменение макроопределения
+  (компиляция исходного файла "aes.c")
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\km\crt\crtdefs.h(640,1):
+  см. предыдущее определение "__CRTDECL"
+  
+D:\Visual Studio\visual studio\VC\Tools\MSVC\14.38.33130\include\stdint.h(16,26): warning C4083: требуется ")"; обнаружен идентификатор "_VCRUNTIME_DISABLED_WARNINGS"
+  (компиляция исходного файла "aes.c")
+  
+  passThrough.c
+D:\Visual Studio\visual studio\VC\Tools\MSVC\14.38.33130\include\vcruntime.h(61,26): warning C4083: требуется ")"; обнаружен идентификатор "_VCRUNTIME_DISABLED_WARNINGS"
+  (компиляция исходного файла "passThrough.c")
+  
+D:\Visual Studio\visual studio\VC\Tools\MSVC\14.38.33130\include\vcruntime.h(111,1): warning C4005: _CRT_STRINGIZE: изменение макроопределения
+  (компиляция исходного файла "passThrough.c")
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\km\crt\crtdefs.h(85,1):
+  см. предыдущее определение "_CRT_STRINGIZE"
+  
+D:\Visual Studio\visual studio\VC\Tools\MSVC\14.38.33130\include\vcruntime.h(114,1): warning C4005: _CRT_WIDE: изменение макроопределения
+  (компиляция исходного файла "passThrough.c")
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\km\crt\crtdefs.h(88,1):
+  см. предыдущее определение "_CRT_WIDE"
+  
+D:\Visual Studio\visual studio\VC\Tools\MSVC\14.38.33130\include\vcruntime.h(155,1): warning C4005: __CRTDECL: изменение макроопределения
+  (компиляция исходного файла "passThrough.c")
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\km\crt\crtdefs.h(640,1):
+  см. предыдущее определение "__CRTDECL"
+  
+D:\Visual Studio\visual studio\VC\Tools\MSVC\14.38.33130\include\stdint.h(16,26): warning C4083: требуется ")"; обнаружен идентификатор "_VCRUNTIME_DISABLED_WARNINGS"
+  (компиляция исходного файла "passThrough.c")
+  
+D:\1study\project\lab2\lab2-2\passThrough.c(26,27): warning C4047: инициализация: "uint8_t *" отличается по уровням косвенного обращения от "int"
+D:\1study\project\lab2\lab2-2\passThrough.c(26,32): warning C4047: инициализация: "uint8_t *" отличается по уровням косвенного обращения от "int"
+D:\1study\project\lab2\lab2-2\passThrough.c(26,37): warning C4047: инициализация: "uint8_t *" отличается по уровням косвенного обращения от "int"
+D:\1study\project\lab2\lab2-2\passThrough.c(26,42): warning C4047: инициализация: "uint8_t *" отличается по уровням косвенного обращения от "int"
+D:\1study\project\lab2\lab2-2\passThrough.c(26,47): warning C4047: инициализация: "uint8_t *" отличается по уровням косвенного обращения от "int"
+D:\1study\project\lab2\lab2-2\passThrough.c(26,52): warning C4047: инициализация: "uint8_t *" отличается по уровням косвенного обращения от "int"
+D:\1study\project\lab2\lab2-2\passThrough.c(26,57): warning C4047: инициализация: "uint8_t *" отличается по уровням косвенного обращения от "int"
+D:\1study\project\lab2\lab2-2\passThrough.c(26,62): warning C4047: инициализация: "uint8_t *" отличается по уровням косвенного обращения от "int"
+D:\1study\project\lab2\lab2-2\passThrough.c(26,67): warning C4047: инициализация: "uint8_t *" отличается по уровням косвенного обращения от "int"
+D:\1study\project\lab2\lab2-2\passThrough.c(26,72): warning C4047: инициализация: "uint8_t *" отличается по уровням косвенного обращения от "int"
+D:\1study\project\lab2\lab2-2\passThrough.c(26,77): warning C4047: инициализация: "uint8_t *" отличается по уровням косвенного обращения от "int"
+D:\1study\project\lab2\lab2-2\passThrough.c(26,82): warning C4047: инициализация: "uint8_t *" отличается по уровням косвенного обращения от "int"
+D:\1study\project\lab2\lab2-2\passThrough.c(26,87): warning C4047: инициализация: "uint8_t *" отличается по уровням косвенного обращения от "int"
+D:\1study\project\lab2\lab2-2\passThrough.c(26,92): warning C4047: инициализация: "uint8_t *" отличается по уровням косвенного обращения от "int"
+D:\1study\project\lab2\lab2-2\passThrough.c(26,97): warning C4047: инициализация: "uint8_t *" отличается по уровням косвенного обращения от "int"
+D:\1study\project\lab2\lab2-2\passThrough.c(26,102): warning C4047: инициализация: "uint8_t *" отличается по уровням косвенного обращения от "int"
+D:\1study\project\lab2\lab2-2\passThrough.c(26,108): warning C4047: инициализация: "uint8_t *" отличается по уровням косвенного обращения от "int"
+D:\1study\project\lab2\lab2-2\passThrough.c(26,114): warning C4047: инициализация: "uint8_t *" отличается по уровням косвенного обращения от "int"
+D:\1study\project\lab2\lab2-2\passThrough.c(26,120): warning C4047: инициализация: "uint8_t *" отличается по уровням косвенного обращения от "int"
+D:\1study\project\lab2\lab2-2\passThrough.c(26,126): warning C4047: инициализация: "uint8_t *" отличается по уровням косвенного обращения от "int"
+D:\1study\project\lab2\lab2-2\passThrough.c(26,132): warning C4047: инициализация: "uint8_t *" отличается по уровням косвенного обращения от "int"
+D:\1study\project\lab2\lab2-2\passThrough.c(26,138): warning C4047: инициализация: "uint8_t *" отличается по уровням косвенного обращения от "int"
+D:\1study\project\lab2\lab2-2\passThrough.c(26,144): warning C4047: инициализация: "uint8_t *" отличается по уровням косвенного обращения от "int"
+D:\1study\project\lab2\lab2-2\passThrough.c(26,150): warning C4047: инициализация: "uint8_t *" отличается по уровням косвенного обращения от "int"
+D:\1study\project\lab2\lab2-2\passThrough.c(26,156): warning C4047: инициализация: "uint8_t *" отличается по уровням косвенного обращения от "int"
+D:\1study\project\lab2\lab2-2\passThrough.c(26,162): warning C4047: инициализация: "uint8_t *" отличается по уровням косвенного обращения от "int"
+D:\1study\project\lab2\lab2-2\passThrough.c(26,168): warning C4047: инициализация: "uint8_t *" отличается по уровням косвенного обращения от "int"
+D:\1study\project\lab2\lab2-2\passThrough.c(26,174): warning C4047: инициализация: "uint8_t *" отличается по уровням косвенного обращения от "int"
+D:\1study\project\lab2\lab2-2\passThrough.c(26,180): warning C4047: инициализация: "uint8_t *" отличается по уровням косвенного обращения от "int"
+D:\1study\project\lab2\lab2-2\passThrough.c(26,186): warning C4047: инициализация: "uint8_t *" отличается по уровням косвенного обращения от "int"
+D:\1study\project\lab2\lab2-2\passThrough.c(26,192): warning C4047: инициализация: "uint8_t *" отличается по уровням косвенного обращения от "int"
+D:\1study\project\lab2\lab2-2\passThrough.c(27,21): warning C4047: инициализация: "uint8_t *" отличается по уровням косвенного обращения от "int"
+D:\1study\project\lab2\lab2-2\passThrough.c(27,27): warning C4047: инициализация: "uint8_t *" отличается по уровням косвенного обращения от "int"
+D:\1study\project\lab2\lab2-2\passThrough.c(27,33): warning C4047: инициализация: "uint8_t *" отличается по уровням косвенного обращения от "int"
+D:\1study\project\lab2\lab2-2\passThrough.c(27,39): warning C4047: инициализация: "uint8_t *" отличается по уровням косвенного обращения от "int"
+D:\1study\project\lab2\lab2-2\passThrough.c(27,45): warning C4047: инициализация: "uint8_t *" отличается по уровням косвенного обращения от "int"
+D:\1study\project\lab2\lab2-2\passThrough.c(27,51): warning C4047: инициализация: "uint8_t *" отличается по уровням косвенного обращения от "int"
+D:\1study\project\lab2\lab2-2\passThrough.c(27,57): warning C4047: инициализация: "uint8_t *" отличается по уровням косвенного обращения от "int"
+D:\1study\project\lab2\lab2-2\passThrough.c(27,63): warning C4047: инициализация: "uint8_t *" отличается по уровням косвенного обращения от "int"
+D:\1study\project\lab2\lab2-2\passThrough.c(27,69): warning C4047: инициализация: "uint8_t *" отличается по уровням косвенного обращения от "int"
+D:\1study\project\lab2\lab2-2\passThrough.c(27,75): warning C4047: инициализация: "uint8_t *" отличается по уровням косвенного обращения от "int"
+D:\1study\project\lab2\lab2-2\passThrough.c(27,81): warning C4047: инициализация: "uint8_t *" отличается по уровням косвенного обращения от "int"
+D:\1study\project\lab2\lab2-2\passThrough.c(27,87): warning C4047: инициализация: "uint8_t *" отличается по уровням косвенного обращения от "int"
+D:\1study\project\lab2\lab2-2\passThrough.c(27,93): warning C4047: инициализация: "uint8_t *" отличается по уровням косвенного обращения от "int"
+D:\1study\project\lab2\lab2-2\passThrough.c(27,99): warning C4047: инициализация: "uint8_t *" отличается по уровням косвенного обращения от "int"
+D:\1study\project\lab2\lab2-2\passThrough.c(27,105): warning C4047: инициализация: "uint8_t *" отличается по уровням косвенного обращения от "int"
+D:\1study\project\lab2\lab2-2\passThrough.c(27,111): warning C4047: инициализация: "uint8_t *" отличается по уровням косвенного обращения от "int"
+D:\1study\project\lab2\lab2-2\passThrough.c(686,39): warning C4047: функция: "const uint8_t *" отличается по уровням косвенного обращения от "uint8_t *[32]"
+D:\1study\project\lab2\lab2-2\passThrough.c(686,39): warning C4024: AES_init_ctx_iv: различные типы для формального и фактического параметров 2
+D:\1study\project\lab2\lab2-2\passThrough.c(686,44): warning C4047: функция: "const uint8_t *" отличается по уровням косвенного обращения от "uint8_t *[16]"
+D:\1study\project\lab2\lab2-2\passThrough.c(686,44): warning C4024: AES_init_ctx_iv: различные типы для формального и фактического параметров 3
+D:\1study\project\lab2\lab2-2\passThrough.c(630,43): warning C4100: CompletionContext: неиспользованный формальный параметр
+D:\1study\project\lab2\lab2-2\passThrough.c(629,32): warning C4100: FltObjects: неиспользованный формальный параметр
+D:\1study\project\lab2\lab2-2\passThrough.c(832,39): warning C4047: функция: "const uint8_t *" отличается по уровням косвенного обращения от "uint8_t *[32]"
+D:\1study\project\lab2\lab2-2\passThrough.c(832,39): warning C4024: AES_init_ctx_iv: различные типы для формального и фактического параметров 2
+D:\1study\project\lab2\lab2-2\passThrough.c(832,44): warning C4047: функция: "const uint8_t *" отличается по уровням косвенного обращения от "uint8_t *[16]"
+D:\1study\project\lab2\lab2-2\passThrough.c(832,44): warning C4024: AES_init_ctx_iv: различные типы для формального и фактического параметров 3
+  Создание кода...
+  passThrough.vcxproj -> D:\1study\project\lab2\lab2-2\x64\Debug\passThrough.sys
+  Done Adding Additional Store
+  Successfully signed: D:\1study\project\lab2\lab2-2\x64\Debug\passThrough.sys
+  
+  Driver is 'Universal'.
+  ........................
+  Signability test complete.
+  
+  Errors:
+  None
+  
+  Warnings:
+  None
+  
+  Catalog generation complete.
+  D:\1study\project\lab2\lab2-2\x64\Debug\passThrough\passthrough.cat
+  Done Adding Additional Store
+  Successfully signed: x64\Debug\passThrough\passthrough.cat
+  

@@ -1,0 +1,2 @@
+D:\1study\project\lab2_k\221-329_Ivanova-lab2\lab2\x64\Debug\passThrough.sys
+D:\1study\project\lab2\lab2-2\x64\Debug\passThrough.sys
