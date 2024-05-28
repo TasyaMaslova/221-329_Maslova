@@ -1,0 +1,8 @@
+enclave {
+    from "sgx_tstdc.edl" import *;
+    trusted {
+        /* define ECALLs here. */
+        public void getDB([out, size=len] char* buffer, size_t len, int i);
+    };
+};
+
